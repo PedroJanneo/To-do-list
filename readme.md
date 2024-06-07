@@ -7,6 +7,6 @@ Você digita em um input uma tarefa e apertar o botao adicionar, e ela ira ser r
 
 - `` HTML``
 
--`` CSS ``
+- `` CSS ``
 
 - `` JAVASCRIPT``
